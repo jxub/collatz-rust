@@ -1,0 +1,7 @@
+[package]
+name = "collatz"
+version = "0.1.0"
+authors = ["jxub <jjanarek@gmail.com>"]
+
+[dependencies]
+rand = "0.3.15"
